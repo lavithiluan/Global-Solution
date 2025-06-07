@@ -35,6 +35,7 @@ Este projeto tem como objetivo resolver um problema proposto utilizando técnica
 - seaborn
 
 👥 Autores
+
 Thiago Henry Dias: RM 554522
 
 Nicolas Dobbeck: RM 557605
